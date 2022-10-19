@@ -9,19 +9,20 @@ To accomplish this, a set of reviews of digital video games was imported into a 
 
 ## Results
 ### Review counts
--The dataset contained zero reviews from Vine users that met the criteria for inclusion in the cleaned dataset.
+- The dataset contained zero reviews from Vine users that met the criteria for inclusion in the cleaned dataset.
 ![](cleaned_paid_reviews.png)
--1563 reviews did make it through the cleaning process; all of them were from non-Vine users.
+- 1563 reviews did make it through the cleaning process; all of them were from non-Vine users.
 ![](unpaid_review_count.png)
 
 ### Counts of 5-star reviews
--Given that there were no reviews from Vine users in the cleaned data, there were no such reviews that gave the product 5 stars.
--Of the non-Vine reviews, 582 were 5-star ratings.
+- Given that there were no reviews from Vine users in the cleaned data, there were no such reviews that gave the product 5 stars.
+- Of the non-Vine reviews, 582 were 5-star ratings.
 ![](5_star_revs.png)
 
 ### 5-star review percentage
--37.24% of the cleaned review data from non-Vine users were 5-star reviews.
--Once again, there was no relevant data in the set from Vine users.
+- 37.24% of the cleaned review data from non-Vine users were 5-star reviews.
+![](five_star_pct.png)
+- Once again, there was no relevant data in the set from Vine users.
 
 ## Summary
 ### Conjecture on bias
